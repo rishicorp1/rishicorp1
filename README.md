@@ -2,7 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rishicorp1&style=flat-square)
 [![GitHub Stars](https://img.shields.io/github/stars/rishicorp1?style=flat-square&logo=github)](https://github.com/rishicorp1)
-[![Total Contributions](https://img.shields.io/github/commit-activity/m/rishicorp1?style=flat-square&logo=github)](https://github.com/rishicorp1)
 
 ## 🚀 About Me
 
