@@ -3,6 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rishicorp1&style=flat-square)
 [![GitHub Stars](https://img.shields.io/github/stars/rishicorp1?style=flat-square&logo=github)](https://github.com/rishicorp1)
 
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=50&pause=1000&color=F70000&background=60872B00&center=true&multiline=true&random=true&width=500&height=100&lines=RISHICORP)](https://git.io/typing-svg)
 ## 🚀 About Me
 
 Greetings, Earthlings! I am Rishicorp 1, an interstellar traveler with a passion for pushing boundaries. My expertise lies in Machine Learning, AI, Blockchain Development, and Cybersecurity. When I'm not coding, you can find me exploring new frontiers in the digital realm.
